@@ -1,0 +1,10 @@
+Servers/
+.metadata/
+.settings/
+*.class
+*.jar
+*.project
+*.MF
+.classpath
+.springBeans
+pom.properties
