@@ -1,2 +1,6 @@
 Servers/
 .metadata/
+*.class
+*.jar
+*.project
+*.MF
